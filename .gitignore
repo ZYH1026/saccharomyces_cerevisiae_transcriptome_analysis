@@ -1,0 +1,15 @@
+# 原始数据
+/raw/
+*.sra
+*.fastq
+
+# 生成的大文件
+/data/
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+
+# 报告文件
+/report/
+
